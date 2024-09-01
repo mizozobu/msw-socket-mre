@@ -1,0 +1,10 @@
+{
+  "name": "msw-socket-mre",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mizozobu <hamc.m.so.j12@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "msw": "^2.4.1"
+  }
+}
